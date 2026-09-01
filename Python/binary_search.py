@@ -1,4 +1,5 @@
 #Defining a function for binary search
+#This is iterative binary search
 def binary_search (arr, key): #Two arguements one is the array another is what I want to find or like check it with
     low = 0                   #The first pointer  
     high = len(arr) - 1       #The last pointer
